@@ -1,2 +1,2 @@
-# eip-exmaple
+# eip-example
 Examples of EVM smart contract implementation
