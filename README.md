@@ -1,2 +1,3 @@
-# eip-example
-Examples of EVM smart contract implementation
+# Solidity Examples
+
+Examples of Solidity Smart Contracts.
