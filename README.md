@@ -1,3 +1,3 @@
-# Solidity Examples
+# Solidity Tutorial
 
-Examples of Solidity Smart Contracts.
+A tutorial for writing nice Solidity smart contract.
